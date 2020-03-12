@@ -3460,6 +3460,22 @@
     ],
     "timestamp": "Dec/29/2022 15:33"
   },
+  "CF73078956": {
+    "contest_id": 987,
+    "language": "GNU C++17",
+    "path": "codeforces/987/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Infinity Gauntlet",
+    "problem_url": "https://codeforces.com/contest/987/problem/A",
+    "submission_id": "CF73078956",
+    "submission_url": "https://codeforces.com/contest/987/submission/73078956",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/12/2020 21:02"
+  },
   "CF73090161": {
     "contest_id": 1324,
     "language": "GNU C++17",
