@@ -13,13 +13,12 @@ typedef long long ll;
 void task()
 {
     int r;
-    float ans;
+    double ans;
 
     scanf("%d", &r);
 
     ans = 2*pi*r;
-
-    printf("%f\n", ans);
+    cout << ans << endl;
 }
 
 int main()
