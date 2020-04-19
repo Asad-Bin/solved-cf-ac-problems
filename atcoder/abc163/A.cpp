@@ -15,11 +15,11 @@ void task()
     int r;
     float ans;
 
-    cin >> r;
+    scanf("%d", &r);
 
-    ans = 1.0*2*pi*r;
+    ans = 2*pi*r;
 
-    cout << ans << "\n";
+    printf("%f\n", ans);
 }
 
 int main()
