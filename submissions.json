@@ -1,4 +1,20 @@
 {
+  "AC15277782": {
+    "contest_id": "abc171",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc171/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Replacing",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_d",
+    "submission_id": "AC15277782",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/15277782",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jul/16/2020 23:37"
+  },
   "AC15277853": {
     "contest_id": "abc171",
     "language": "C++ (GCC 9.2.1)",
