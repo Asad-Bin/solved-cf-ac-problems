@@ -1,4 +1,20 @@
 {
+  "AC15494132": {
+    "contest_id": "abc162",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc162/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "FizzBuzz Sum",
+    "problem_url": "https://atcoder.jp/contests/abc162/tasks/abc162_b",
+    "submission_id": "AC15494132",
+    "submission_url": "https://atcoder.jp/contests/abc162/submissions/15494132",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/27/2020 23:01"
+  },
   "AC15494163": {
     "contest_id": "abc162",
     "language": "C++ (GCC 9.2.1)",
