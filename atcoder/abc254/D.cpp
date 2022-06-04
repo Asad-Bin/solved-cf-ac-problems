@@ -40,7 +40,7 @@ long long calc(int at, long long y, long long n)
 	if(dp[y] != -1LL) return dp[y];
 		
 	long long ans = 0;
-	for(int K = 0; K < (int)primes.size() && y*primes[K]*primes[K] <= n; K++){
+	for(int K = at; K < (int)primes.size() && y*primes[K]*primes[K] <= n; K++){
 		ans += calc(at, y*primes[K]*primes[K], n);
 		ans += calc(at+1, y*primes[K]*primes[K], n);
 	}
