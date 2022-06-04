@@ -31,21 +31,16 @@ void sieve(int n)
 	}
 }
 map<int, int> mp;
-long long dp[MX+5];
-long long calc(int at, long long y, long long n)
+void calc(int at, long long y, long long n)
 {
-	if(mp[y]) return 0;
+	if(mp[y]) return;
 	mp[y]++;
-	
-	if(dp[y] != -1LL) return dp[y];
+	ara[y]++;
 		
-	long long ans = 0;
 	for(int K = at; K < (int)primes.size() && y*primes[K]*primes[K] <= n; K++){
-		ans += calc(at, y*primes[K]*primes[K], n);
-		ans += calc(at+1, y*primes[K]*primes[K], n);
+		calc(at, y*primes[K]*primes[K], n);
+		calc(at+1, y*primes[K]*primes[K], n);
 	}
-	
-	return dp[y] = ans+1;
 }
 int main()
 {
@@ -55,8 +50,6 @@ int main()
 	cin >> n;
 	
 	memset(ara, 0LL, sizeof ara);
-	memset(dp, -1LL, sizeof dp);
-	long long ans = 0;
 	
 	for(long long K = 1; K <= n; K++){
 		long long x = K, y = 1;
@@ -82,11 +75,11 @@ int main()
 		//cout << K << ' ' << y << "\n";
 		
 		mp.clear();
-		ans += calc(0, y, n);
+		calc(0, y, n);
 	}
 	
-	//long long ans = 0;
-	//for(int K = 1; K <= n; K++) ans += ara[K];
+	long long ans = 0;
+	for(int K = 1; K <= n; K++) ans += ara[K];
 	
 	cout << ans << "\n";
 	
