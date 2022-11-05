@@ -1,4 +1,20 @@
 {
+  "AC36265284": {
+    "contest_id": "abc276",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc276/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Double Chance",
+    "problem_url": "https://atcoder.jp/contests/abc276/tasks/abc276_f",
+    "submission_id": "AC36265284",
+    "submission_url": "https://atcoder.jp/contests/abc276/submissions/36265284",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Nov/05/2022 20:21"
+  },
   "AC36952687": {
     "contest_id": "abc280",
     "language": "C++ (GCC 9.2.1)",
