@@ -1,4 +1,22 @@
 {
+  "CF181452119": {
+    "contest_id": 1759,
+    "language": "GNU C++17",
+    "path": "codeforces/1759/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Thermostat",
+    "problem_url": "https://codeforces.com/contest/1759/problem/C",
+    "submission_id": "CF181452119",
+    "submission_url": "https://codeforces.com/contest/1759/submission/181452119",
+    "tags": [
+      "greedy",
+      "math",
+      "shortest paths",
+      "*1100"
+    ],
+    "timestamp": "Nov/18/2022 21:03"
+  },
   "CF181454937": {
     "contest_id": 1759,
     "language": "GNU C++17",
