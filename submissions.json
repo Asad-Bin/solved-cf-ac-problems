@@ -1,4 +1,21 @@
 {
+  "CF181381645": {
+    "contest_id": 1497,
+    "language": "GNU C++17",
+    "path": "codeforces/1497/C2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "k-LCM (hard version)",
+    "problem_url": "https://codeforces.com/contest/1497/problem/C2",
+    "submission_id": "CF181381645",
+    "submission_url": "https://codeforces.com/contest/1497/submission/181381645",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Nov/18/2022 12:32"
+  },
   "CF181428866": {
     "contest_id": 1759,
     "language": "GNU C++17",
