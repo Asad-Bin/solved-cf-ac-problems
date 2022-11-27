@@ -1,4 +1,22 @@
 {
+  "CF182906920": {
+    "contest_id": 1765,
+    "language": "GNU C++17",
+    "path": "codeforces/1765/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Watch the Videos",
+    "problem_url": "https://codeforces.com/contest/1765/problem/D",
+    "submission_id": "CF182906920",
+    "submission_url": "https://codeforces.com/contest/1765/submission/182906920",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Nov/27/2022 19:09"
+  },
   "CF183683308": {
     "contest_id": 607,
     "language": "GNU C++17",
