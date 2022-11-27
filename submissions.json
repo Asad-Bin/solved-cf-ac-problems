@@ -1,4 +1,20 @@
 {
+  "CF182889594": {
+    "contest_id": 1765,
+    "language": "GNU C++17",
+    "path": "codeforces/1765/N.cpp",
+    "platform": "Codeforces",
+    "problem_index": "N",
+    "problem_name": "Number Reduction",
+    "problem_url": "https://codeforces.com/contest/1765/problem/N",
+    "submission_id": "CF182889594",
+    "submission_url": "https://codeforces.com/contest/1765/submission/182889594",
+    "tags": [
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Nov/27/2022 18:08"
+  },
   "CF182906920": {
     "contest_id": 1765,
     "language": "GNU C++17",
