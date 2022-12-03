@@ -1,4 +1,20 @@
 {
+  "AC36952687": {
+    "contest_id": "abc280",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc280/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Pawn on a Grid",
+    "problem_url": "https://atcoder.jp/contests/abc280/tasks/abc280_a",
+    "submission_id": "AC36952687",
+    "submission_url": "https://atcoder.jp/contests/abc280/submissions/36952687",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/03/2022 18:03"
+  },
   "AC36956880": {
     "contest_id": "abc280",
     "language": "C++ (GCC 9.2.1)",
