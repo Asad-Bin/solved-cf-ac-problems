@@ -1,4 +1,20 @@
 {
+  "AC36972583": {
+    "contest_id": "abc280",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc280/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Extra Character",
+    "problem_url": "https://atcoder.jp/contests/abc280/tasks/abc280_c",
+    "submission_id": "AC36972583",
+    "submission_url": "https://atcoder.jp/contests/abc280/submissions/36972583",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/03/2022 18:25"
+  },
   "AC37483469": {
     "contest_id": "abc283",
     "language": "C++ (GCC 9.2.1)",
