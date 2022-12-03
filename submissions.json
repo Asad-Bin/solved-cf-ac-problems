@@ -1,4 +1,20 @@
 {
+  "AC36971420": {
+    "contest_id": "abc280",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc280/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Factorial and Multiple",
+    "problem_url": "https://atcoder.jp/contests/abc280/tasks/abc280_d",
+    "submission_id": "AC36971420",
+    "submission_url": "https://atcoder.jp/contests/abc280/submissions/36971420",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Dec/03/2022 18:23"
+  },
   "AC36972583": {
     "contest_id": "abc280",
     "language": "C++ (GCC 9.2.1)",
