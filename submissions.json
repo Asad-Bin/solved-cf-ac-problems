@@ -1,4 +1,21 @@
 {
+  "CF185614309": {
+    "contest_id": 1762,
+    "language": "GNU C++17",
+    "path": "codeforces/1762/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Binary Strings are Fun",
+    "problem_url": "https://codeforces.com/contest/1762/problem/C",
+    "submission_id": "CF185614309",
+    "submission_url": "https://codeforces.com/contest/1762/submission/185614309",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/17/2022 16:53"
+  },
   "CF185643408": {
     "contest_id": 1774,
     "language": "GNU C++17",
