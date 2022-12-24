@@ -1,4 +1,20 @@
 {
+  "AC37483469": {
+    "contest_id": "abc283",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc283/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Power",
+    "problem_url": "https://atcoder.jp/contests/abc283/tasks/abc283_a",
+    "submission_id": "AC37483469",
+    "submission_url": "https://atcoder.jp/contests/abc283/submissions/37483469",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/24/2022 18:01"
+  },
   "AC37491049": {
     "contest_id": "abc283",
     "language": "C++ (GCC 9.2.1)",
