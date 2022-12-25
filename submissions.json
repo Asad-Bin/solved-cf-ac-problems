@@ -1,4 +1,20 @@
 {
+  "AC37533540": {
+    "contest_id": "abc283",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc283/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Permutation Distance",
+    "problem_url": "https://atcoder.jp/contests/abc283/tasks/abc283_f",
+    "submission_id": "AC37533540",
+    "submission_url": "https://atcoder.jp/contests/abc283/submissions/37533540",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Dec/25/2022 10:01"
+  },
   "CF105760024": {
     "contest_id": 1478,
     "language": "GNU C++17",
