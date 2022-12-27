@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-4 | [E - Graph Cost](https://codeforces.com/contest/1731/problem/E) | [GNU C++17](./codeforces/1731/E.cpp) | `dp` `greedy` `hashing` `math` `number theory` | Dec/29/2022 15:33 | 
-3 | [D - Ehab the Xorcist](https://codeforces.com/contest/1325/problem/D) | [GNU C++17](./codeforces/1325/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `number theory` `*1700` | Dec/28/2022 19:14 | 
-2 | [D - Valiant's New Map](https://codeforces.com/contest/1731/problem/D) | [GNU C++17](./codeforces/1731/D.cpp) | `binary search` `brute force` `combinatorics` `dp` `two pointers` | Dec/28/2022 00:11 | 
-1 | [C - Even Subarrays](https://codeforces.com/contest/1731/problem/C) | [GNU C++17](./codeforces/1731/C.cpp) | `bitmasks` `brute force` `hashing` `math` `number theory` | Dec/27/2022 22:22 | 
+5 | [E - Graph Cost](https://codeforces.com/contest/1731/problem/E) | [GNU C++17](./codeforces/1731/E.cpp) | `dp` `greedy` `hashing` `math` `number theory` | Dec/29/2022 15:33 | 
+4 | [D - Ehab the Xorcist](https://codeforces.com/contest/1325/problem/D) | [GNU C++17](./codeforces/1325/D.cpp) | `bitmasks` `constructive algorithms` `greedy` `number theory` `*1700` | Dec/28/2022 19:14 | 
+3 | [D - Valiant's New Map](https://codeforces.com/contest/1731/problem/D) | [GNU C++17](./codeforces/1731/D.cpp) | `binary search` `brute force` `combinatorics` `dp` `two pointers` | Dec/28/2022 00:11 | 
+2 | [C - Even Subarrays](https://codeforces.com/contest/1731/problem/C) | [GNU C++17](./codeforces/1731/C.cpp) | `bitmasks` `brute force` `hashing` `math` `number theory` | Dec/27/2022 22:22 | 
+1 | [B - Kill Demodogs](https://codeforces.com/contest/1731/problem/B) | [GNU C++17](./codeforces/1731/B.cpp) | `greedy` `math` | Dec/27/2022 20:52 | 
