@@ -4964,6 +4964,25 @@
     ],
     "timestamp": "Dec/29/2022 15:33"
   },
+  "CF187988155": {
+    "contest_id": 1409,
+    "language": "GNU C++17",
+    "path": "codeforces/1409/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Platforms",
+    "problem_url": "https://codeforces.com/contest/1409/problem/E",
+    "submission_id": "CF187988155",
+    "submission_url": "https://codeforces.com/contest/1409/submission/187988155",
+    "tags": [
+      "binary search",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Jan/05/2023 11:25"
+  },
   "CF187988182": {
     "contest_id": 1446,
     "language": "GNU C++17",
