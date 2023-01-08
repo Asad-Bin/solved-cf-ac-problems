@@ -4964,6 +4964,24 @@
     ],
     "timestamp": "Dec/29/2022 15:33"
   },
+  "CF188391142": {
+    "contest_id": 1538,
+    "language": "GNU C++17",
+    "path": "codeforces/1538/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Another Problem About Dividing Numbers",
+    "problem_url": "https://codeforces.com/contest/1538/problem/D",
+    "submission_id": "CF188391142",
+    "submission_url": "https://codeforces.com/contest/1538/submission/188391142",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Jan/08/2023 13:06"
+  },
   "CF188442250": {
     "contest_id": 1783,
     "language": "GNU C++17",
