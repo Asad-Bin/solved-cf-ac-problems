@@ -5627,6 +5627,23 @@
     ],
     "timestamp": "Jan/20/2023 17:45"
   },
+  "CF189993140": {
+    "contest_id": 1777,
+    "language": "GNU C++17",
+    "path": "codeforces/1777/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Emordnilap",
+    "problem_url": "https://codeforces.com/contest/1777/problem/B",
+    "submission_id": "CF189993140",
+    "submission_url": "https://codeforces.com/contest/1777/submission/189993140",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jan/21/2023 21:05"
+  },
   "CF190323107": {
     "contest_id": 1792,
     "language": "GNU C++17",
