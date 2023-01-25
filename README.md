@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-433 | [B - GCD Partition](https://codeforces.com/contest/1780/problem/B) | [GNU C++17](./codeforces/1780/B.cpp) | `brute force` `greedy` `math` `number theory` | Jan/25/2023 20:50 | 
-432 | [A - Hayato and School](https://codeforces.com/contest/1780/problem/A) | [GNU C++17](./codeforces/1780/A.cpp) | `constructive algorithms` `greedy` | Jan/25/2023 20:40 | 
+434 | [B - GCD Partition](https://codeforces.com/contest/1780/problem/B) | [GNU C++17](./codeforces/1780/B.cpp) | `brute force` `greedy` `math` `number theory` | Jan/25/2023 20:50 | 
+433 | [A - Hayato and School](https://codeforces.com/contest/1780/problem/A) | [GNU C++17](./codeforces/1780/A.cpp) | `constructive algorithms` `greedy` | Jan/25/2023 20:40 | 
+432 | [C - Least Prefix Sum](https://codeforces.com/contest/1779/problem/C) | [GNU C++17](./codeforces/1779/C.cpp) | `data structures` `greedy` `*1600` | Jan/25/2023 19:34 | 
 431 | [C - Interesting Sequence](https://codeforces.com/contest/1775/problem/C) | [GNU C++17](./codeforces/1775/C.cpp) | `bitmasks` `math` `*1600` | Jan/20/2023 17:45 | 
 430 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++17](./codeforces/1775/B.cpp) | `bitmasks` `constructive algorithms` `*1300` | Jan/20/2023 16:02 | 
 429 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++17](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `*900` | Jan/20/2023 15:24 | 
